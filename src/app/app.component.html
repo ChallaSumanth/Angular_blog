@@ -1,0 +1,20 @@
+<div class='jumbotron head text-center' >
+<h1>BlogHub</h1>
+<p>Pen down your thought to share with world</p>
+</div>
+<!-- <app-blogform></app-blogform>
+<app-bloglist>
+
+</app-bloglist> -->
+<ul class="nav justify-content-center" >
+  <li class="nav-item">
+    <a class="nav-link active" href="#">BLOG HUB</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#" [routerLink]="['/create']" routerLinkActive="router-link-active" >Create Blog</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#" [routerLink]="['/list']" routerLinkActive="router-link-active" >Blogs</a>
+  </li>
+</ul>
+<router-outlet></router-outlet>

@@ -1,0 +1,8 @@
+#list{
+    padding: 20px;
+    border: 2px solid rgb(20, 70, 10);
+    background: green;
+    width: 80%;
+    margin: 30px auto;
+    color:  white;
+}
