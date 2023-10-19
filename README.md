@@ -17,7 +17,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 <B>used ngForm to Create a top-level FormGroup instance and bind it</B>
 ![image](https://github.com/ChallaSumanth/Angular_blog/assets/62050083/35ea695e-bfd1-4f0f-aed7-e41f75648d1d)
 
-<B>Used Angular to move between the different views</B>
+<B>Used Angular routing to move between the different views</B>
 ![image](https://github.com/ChallaSumanth/Angular_blog/assets/62050083/f056ab0f-18bb-49d0-bcf7-46fc214e711e)
 
 
