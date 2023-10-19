@@ -14,3 +14,4 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+<B>used ngForm to Create a top-level FormGroup instance and bind it</B>
