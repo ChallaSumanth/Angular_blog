@@ -1,6 +1,6 @@
 # AngularBlog
 
-live - https://challasumanth.github.io/Angular_blog/Angular_blog/create
+live - https://challasumanth.github.io/Angular_blog/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
